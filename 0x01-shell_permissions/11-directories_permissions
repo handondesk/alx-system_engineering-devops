@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 777 dir
+chmod -R -f 777 dir
