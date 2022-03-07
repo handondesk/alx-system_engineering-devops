@@ -1,2 +1,2 @@
-ls -lRa
-ls -lRa
+#!/bin/bash
+find . -type d ! -path . -print | wc -l
