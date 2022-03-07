@@ -1,0 +1,15 @@
+#!/bin/bash
+echo 'total 52
+drwxrwxr-x 2 vagrant vagrant 4096 Mar  7 16:32 .
+drwxrwxr-x 6 vagrant vagrant 4096 Mar  7 16:02 ..
+-rwxrw-r-- 1 vagrant vagrant   32 Mar  7 13:42 0-hello_world
+-rwxrw-r-- 1 vagrant vagrant   40 Mar  7 15:49 1-confused_smiley
+-rwxrw-r-- 1 vagrant vagrant   28 Mar  7 14:25 2-hellofile
+-rwxrw-r-- 1 vagrant vagrant   39 Mar  7 14:36 3-twofiles
+-rwxrw-r-- 1 vagrant vagrant   33 Mar  7 14:41 4-lastlines
+-rwxrw-r-- 1 vagrant vagrant   33 Mar  7 14:45 5-firstlines
+-rwxrw-r-- 1 vagrant vagrant   42 Mar  7 15:26 6-third_line
+-rwxrw-r-- 1 vagrant vagrant   74 Mar  7 16:27 7-file
+-rwxrw-r-- 1 vagrant vagrant   19 Mar  7 16:32 8-cwd_state
+-rw-rw-r-- 1 vagrant vagrant   13 Mar  7 13:38 README.md
+-rwxrw-r-- 1 vagrant vagrant 3249 Mar  7 15:27 iacta' > ls_cwd_content
